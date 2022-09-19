@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Alisa Kim](https://up.htmlacademy.ru/htmlcss/35/user/1725169).
-* Наставник: `Sergey Ostapenko`.
+* Наставник: `Sergey Ostapovets`.
 
 ---
 
